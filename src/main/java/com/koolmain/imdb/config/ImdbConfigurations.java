@@ -23,9 +23,9 @@ public class ImdbConfigurations {
         return modelMapper; 
     }
 
-    @Bean
-    public ValidationConfigurationCustomizer validationCustomizer(){
-        
-    }
+//    @Bean
+//    public ValidationConfigurationCustomizer validationCustomizer(){
+//
+//    }
 
 }
