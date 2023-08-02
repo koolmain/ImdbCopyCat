@@ -41,3 +41,4 @@ Password = postgres
 The schema is defined within the file `schema.cql` in the `database-init` folder. There
 you'll find what each column represents on every table, this is taken from
 [IMDb interfaces](https://www.imdb.com/interfaces/).
+data 
