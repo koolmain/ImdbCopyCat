@@ -27,8 +27,8 @@ by the user, you must provide what’s the degree of separation between the pers
 
 ## Setup
 
-To speed up the assessment development, we have provided a `docker-compose` file that
-will run a [PostgreSQL](https://www.postgresql.org/) instance with all the data loaded,
+To speed up the development, we have provided a `docker-compose` file that
+will run a [PostgreSQL](https://www.postgresql.org/) instance,
 which you can start with the following command: `docker-compose up`. You can connect to
 this instance from your application with the following values:
 
